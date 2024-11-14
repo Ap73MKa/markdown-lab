@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 const config = defineConfig({
   title: "Markdown Lab",
   description: "A VitePress Site",
+  base: '/markdown-lab',
   themeConfig: {
     nav: [
       { text: 'Projects', link: '/list' },
