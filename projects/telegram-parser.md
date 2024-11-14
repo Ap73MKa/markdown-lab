@@ -30,7 +30,7 @@ This is a Telegram Bot written in Python for monitoring concerts. Based on [aiog
 git clone https://github.com/Ap73MKa/telegramConcertParser
 ```
 
-- Do a copy of .env.dist and named it .env. Fill environment variables using this [guide](assets/env.md).
+- Do a copy of .env.dist and named it .env
 
 ```bash
 cp .env.dist .env
